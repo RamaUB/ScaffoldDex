@@ -1,5 +1,7 @@
 # SimpleDex (on Scaffold-ETH 2)
 
+![image](https://github.com/user-attachments/assets/941607be-95ce-462a-b6f2-b4468954af43)
+
  
 ## Requirements
 
